@@ -1,5 +1,2 @@
-# hey
-
-some update
-
-update from git kraken
+a = 'Hello, Python!'
+print(a)
